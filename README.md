@@ -36,4 +36,4 @@ git clone https://github.com/ronitsajnani/student-management-system.git
 cd student-management-system
 
 # Build and run with Maven
-/gradlew bootrun
+./gradlew bootrun
