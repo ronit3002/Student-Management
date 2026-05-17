@@ -1,7 +1,7 @@
 # Student-Management
 A RESTful API built with Spring Boot that manages student information. Includes CRUD operations, pagination, and exception handling. Perfect for integration with front-end apps.
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java 17
 - Spring Boot
@@ -14,19 +14,19 @@ A RESTful API built with Spring Boot that manages student information. Includes 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add a new student
-- 📝 Update student details
-- 🔍 Get a list of all students
-- 📌 Get student by ID
-- ❌ Delete student by ID
-- 🗃 In-memory H2 DB with console access
-- 🔐 (Optional) Add input validation or basic auth
+- Add a new student
+- Update student details
+- Get a list of all students
+- Get student by ID
+- Delete student by ID
+- In-memory H2 DB with console access
+- (Optional) Add input validation or basic auth
 
 ---
 
-## 📦 Running the App
+## Running the App
 
 ```bash
 # Clone the repository
